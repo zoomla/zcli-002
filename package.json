@@ -56,6 +56,11 @@
       "no-irregular-whitespace": 0
     }
   },
+  "author": "Shanghai  Zoomla!CMS Software co.,ltd",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zoomla/zcli-001.git"
+  },
   "homepage": "https://www.z01.com",
   "browserslist": [
     "> 1%",
